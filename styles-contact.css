@@ -119,7 +119,7 @@ p {
 
 nav{
 	font-family: 'M PLUS Code Latin', sans-serif;
-	font-size: .07em;
+	font-size: 1em;
 	width: 400px; /* This is the width of the nav element */
 	margin: 0 auto; /* This centers the entire nav element inside
 	the center div */
